@@ -26,7 +26,10 @@ Copy code
     "Desired profit": 100,
     "Webhook": "your-discord-webhook-url"
 }
+```
+
 Usage
+```
 Run the script using the following command:
 Copy code
 python script.py
@@ -40,6 +43,8 @@ Desired profit: The minimum profit margin to trigger an update.
 Webhook: Your Discord webhook URL to receive updates.
 Discord Notifications
 The script sends updates to a Discord webhook in the form of an embed containing the sneaker information.
-
+```
 Disclaimer
+```
 This script is intended for educational purposes and personal use. Use responsibly and ensure you adhere to the terms of service of StockX and Discord.
+```
