@@ -4,7 +4,7 @@ This Python script monitors StockX for sneakers and sends updates to a Discord w
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11 or further
 - `requests` library
 - `beautifulsoup4` library
 
